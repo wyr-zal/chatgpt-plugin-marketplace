@@ -1,0 +1,16 @@
+{
+  "name": "image-to-code",
+  "version": "1.0.1",
+  "description": "先生成并分析视觉设计，再按参考图尽可能忠实地实现前端。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Image-to-code",
+    "shortDescription": "先生成并分析视觉设计，再按参考图尽可能忠实地实现前端。",
+    "longDescription": "先生成并分析视觉设计，再按参考图尽可能忠实地实现前端。",
+    "developerName": "wyr-zal",
+    "category": "Developer Tools",
+    "brandColor": "#4F46E5",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
