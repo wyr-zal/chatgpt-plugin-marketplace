@@ -1,0 +1,16 @@
+{
+  "name": "visual-verdict",
+  "version": "1.0.1",
+  "description": "对比参考图与生成截图，输出结构化视觉 QA 结论并驱动迭代。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Visual-verdict",
+    "shortDescription": "对比参考图与生成截图，输出结构化视觉 QA 结论并驱动迭代。",
+    "longDescription": "对比参考图与生成截图，输出结构化视觉 QA 结论并驱动迭代。",
+    "developerName": "wyr-zal",
+    "category": "Design",
+    "brandColor": "#F59E0B",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
