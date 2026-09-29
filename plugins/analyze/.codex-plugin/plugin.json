@@ -1,0 +1,16 @@
+{
+  "name": "analyze",
+  "version": "1.0.1",
+  "description": "证据驱动调查分析：用假设排名、证据强度和证伪方法做根因分析。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Analyze",
+    "shortDescription": "证据驱动调查分析：用假设排名、证据强度和证伪方法做根因分析。",
+    "longDescription": "证据驱动调查分析：用假设排名、证据强度和证伪方法做根因分析。",
+    "developerName": "wyr-zal",
+    "category": "Developer Tools",
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
