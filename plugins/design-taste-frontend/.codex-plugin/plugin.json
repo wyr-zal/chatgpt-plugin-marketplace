@@ -1,0 +1,16 @@
+{
+  "name": "design-taste-frontend",
+  "version": "1.0.1",
+  "description": "面向高质量前端页面和重设计任务的视觉审美与实现工作流。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design-taste-frontend",
+    "shortDescription": "面向高质量前端页面和重设计任务的视觉审美与实现工作流。",
+    "longDescription": "面向高质量前端页面和重设计任务的视觉审美与实现工作流。",
+    "developerName": "wyr-zal",
+    "category": "Design",
+    "brandColor": "#F97316",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
