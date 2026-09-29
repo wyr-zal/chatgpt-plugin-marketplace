@@ -1,0 +1,16 @@
+{
+  "name": "deepsearch",
+  "version": "1.0.1",
+  "description": "面向代码库的深度搜索、调用链追踪与上下文定位。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Deepsearch",
+    "shortDescription": "面向代码库的深度搜索、调用链追踪与上下文定位。",
+    "longDescription": "面向代码库的深度搜索、调用链追踪与上下文定位。",
+    "developerName": "wyr-zal",
+    "category": "Developer Tools",
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
