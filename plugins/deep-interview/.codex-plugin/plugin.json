@@ -1,0 +1,16 @@
+{
+  "name": "deep-interview",
+  "version": "1.0.1",
+  "description": "通过苏格拉底式追问把模糊需求收敛成可执行、可验证的规格。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Deep-interview",
+    "shortDescription": "通过苏格拉底式追问把模糊需求收敛成可执行、可验证的规格。",
+    "longDescription": "通过苏格拉底式追问把模糊需求收敛成可执行、可验证的规格。",
+    "developerName": "wyr-zal",
+    "category": "Productivity",
+    "brandColor": "#6D28D9",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
