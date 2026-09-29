@@ -10,7 +10,7 @@
     "developerName": "wyr-zal",
     "category": "Design",
     "brandColor": "#F97316",
-    "composerIcon": "./assets/icon.png",
-    "logo": "./assets/logo.png"
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
   }
 }

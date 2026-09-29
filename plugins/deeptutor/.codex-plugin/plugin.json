@@ -1,0 +1,16 @@
+{
+  "name": "deeptutor",
+  "version": "1.0.1",
+  "description": "不绑定后端的 DeepTutor 风格 Explore → Plan → Quiz 学习与出题工作流。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "DeepTutor",
+    "shortDescription": "不绑定后端的 DeepTutor 风格 Explore → Plan → Quiz 学习与出题工作流。",
+    "longDescription": "不绑定后端的 DeepTutor 风格 Explore → Plan → Quiz 学习与出题工作流。",
+    "developerName": "wyr-zal",
+    "category": "Education",
+    "brandColor": "#0EA5A4",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

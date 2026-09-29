@@ -10,7 +10,7 @@
     "developerName": "wyr-zal",
     "category": "Developer Tools",
     "brandColor": "#4F46E5",
-    "composerIcon": "./assets/icon.png",
-    "logo": "./assets/logo.png"
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
   }
 }

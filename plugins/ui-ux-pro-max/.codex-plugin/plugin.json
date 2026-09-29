@@ -1,0 +1,16 @@
+{
+  "name": "ui-ux-pro-max",
+  "version": "1.0.1",
+  "description": "面向 Web、移动端和桌面端的 UI/UX 设计智能与设计系统指导。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Ui-ux-pro-max",
+    "shortDescription": "面向 Web、移动端和桌面端的 UI/UX 设计智能与设计系统指导。",
+    "longDescription": "面向 Web、移动端和桌面端的 UI/UX 设计智能与设计系统指导。",
+    "developerName": "wyr-zal",
+    "category": "Design",
+    "brandColor": "#14B8A6",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

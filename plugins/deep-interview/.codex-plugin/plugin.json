@@ -10,7 +10,7 @@
     "developerName": "wyr-zal",
     "category": "Productivity",
     "brandColor": "#6D28D9",
-    "composerIcon": "./assets/icon.png",
-    "logo": "./assets/logo.png"
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
   }
 }

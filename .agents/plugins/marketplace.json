@@ -1,0 +1,116 @@
+{
+  "name": "wyr-zal-plugins",
+  "interface": {
+    "displayName": "Wyr-zal Plugins"
+  },
+  "plugins": [
+    {
+      "name": "analyze",
+      "source": {
+        "source": "local",
+        "path": "./plugins/analyze"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "deep-interview",
+      "source": {
+        "source": "local",
+        "path": "./plugins/deep-interview"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "deepsearch",
+      "source": {
+        "source": "local",
+        "path": "./plugins/deepsearch"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "design-taste-frontend",
+      "source": {
+        "source": "local",
+        "path": "./plugins/design-taste-frontend"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "image-to-code",
+      "source": {
+        "source": "local",
+        "path": "./plugins/image-to-code"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "visual-verdict",
+      "source": {
+        "source": "local",
+        "path": "./plugins/visual-verdict"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ui-ux-pro-max"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "deeptutor-personal",
+      "source": {
+        "source": "local",
+        "path": "./plugins/deeptutor-personal"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "deeptutor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/deeptutor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}

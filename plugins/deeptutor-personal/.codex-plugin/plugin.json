@@ -1,0 +1,16 @@
+{
+  "name": "deeptutor-personal",
+  "version": "1.0.1",
+  "description": "连接个人 DeepTutor 部署并按 Explore → Plan → Quiz 工作流学习与出题。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "DeepTutor Personal",
+    "shortDescription": "连接个人 DeepTutor 部署并按 Explore → Plan → Quiz 工作流学习与出题。",
+    "longDescription": "连接个人 DeepTutor 部署并按 Explore → Plan → Quiz 工作流学习与出题。",
+    "developerName": "wyr-zal",
+    "category": "Education",
+    "brandColor": "#10B981",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}
